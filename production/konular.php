@@ -1,0 +1,10 @@
+
+
+*-ÜYE GİRİŞ ÇIKIŞ İŞLEMLERİ
+*-MENÜ İŞLEMLERİ
+*-KATEGORİ İŞLEMLERİ
+*-ÜRÜN İŞLEMLERİ
+*-SEPET İŞLEMLERİ
+*-SİPARİŞ İŞLEMLERİ
+*-SLİDER MODÜLÜ
+*-ÜRÜN ARAMA İŞLEMLERİ
